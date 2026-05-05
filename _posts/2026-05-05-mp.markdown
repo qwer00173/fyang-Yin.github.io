@@ -1,0 +1,13 @@
+---
+layout:        post
+title:         "出Zemax/codev软件（.vmx .vmdk  .nvram)"
+author:        "Fyang"
+header-style:  text
+catalog:       true
+tags:
+    -web
+    -Optical Design
+---
+
+VMware虚拟机文件夹
+天翼云盘：https://cloud.189.cn/t/u6ZVzyjy6VJj（访问码：php5）
